@@ -8,4 +8,4 @@
 
 
 ##### All the earthquake data and tectonic plate data are displayed on the all maps of the webpage 
-![image](https://github.com/vd1310/Mapping_Earthquakes/blob/main/Earthquakes.png)
+![image](https://github.com/vd1310/Mapping_Earthquakes/blob/main/tectonic.png)
